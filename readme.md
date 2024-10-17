@@ -28,7 +28,7 @@ To get started with Journal, simply install the app and follow the on-screen ins
 ![Screenshot 3](https://firebasestorage.googleapis.com/v0/b/blaze-7a3a2.appspot.com/o/PicLink%2FScreenshot_20241013-192805_Journal.jpg?alt=media&token=d097f5da-79e3-4358-abd1-72f9801af8dc)
 
 ## Contributing
-Contributions are welcome! If you have suggestions or issues to report, please do so via [GitHub](<PLACEHOLDER_FOR_GITHUB_LINK>) or email me at [bzk9xx@gmail.com](mailto:bzk9xx@gmail.com).
+Contributions are welcome! If you have suggestions or issues to report, please do so via [GitHub](https://github.com/bzk9x/Journal/issues) or email me at [bzk9xx@gmail.com](mailto:bzk9xx@gmail.com).
 
 ## Contact
 For any inquiries or support, please reach out via email: [bzk9xx@gmail.com](mailto:bzk9xx@gmail.com).
