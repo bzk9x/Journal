@@ -23,9 +23,9 @@ You can download and install the Journal app from the [Google Play Store](<PLACE
 To get started with Journal, simply install the app and follow the on-screen instructions. 
 
 ## Screenshots
-![Screenshot 1](<PLACEHOLDER_FOR_SCREENSHOT_1>)  
-![Screenshot 2](<PLACEHOLDER_FOR_SCREENSHOT_2>)  
-*(Add your screenshots here)*
+![Screenshot 1](https://firebasestorage.googleapis.com/v0/b/blaze-7a3a2.appspot.com/o/PicLink%2FScreenshot_20241013-192803_Journal.jpg?alt=media&token=ef7f3dc6-492a-45be-bd99-5ce7fb478378)  
+![Screenshot 2](https://firebasestorage.googleapis.com/v0/b/blaze-7a3a2.appspot.com/o/PicLink%2FScreenshot_20241013-192806_Journal.jpg?alt=media&token=d16c0267-2517-48b2-b54d-2735a86e718e)  
+![Screenshot 3](https://firebasestorage.googleapis.com/v0/b/blaze-7a3a2.appspot.com/o/PicLink%2FScreenshot_20241013-192805_Journal.jpg?alt=media&token=d097f5da-79e3-4358-abd1-72f9801af8dc)
 
 ## Contributing
 Contributions are welcome! If you have suggestions or issues to report, please do so via [GitHub](<PLACEHOLDER_FOR_GITHUB_LINK>) or email me at [bzk9xx@gmail.com](mailto:bzk9xx@gmail.com).
