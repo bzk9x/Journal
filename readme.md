@@ -16,7 +16,7 @@ Journal is a journaling application designed to help you take a moment to reflec
   - Palette v1.0.0
 
 ## Installation
-You can download and install the Journal app from the [Google Play Store](<PLACEHOLDER_LINK>).
+You can download and install the Journal app from the Google playstore (Coming soon)
 - **Minimum API Level**: 29
 
 ## Usage
